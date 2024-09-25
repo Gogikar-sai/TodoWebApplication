@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gogikar-sai/TodoWebApplication/static/css/main.5a152970.css",
+    "main.js": "/Gogikar-sai/TodoWebApplication/static/js/main.8743ed90.js",
+    "static/js/453.64512fd7.chunk.js": "/Gogikar-sai/TodoWebApplication/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Gogikar-sai/TodoWebApplication/index.html",
+    "main.5a152970.css.map": "/Gogikar-sai/TodoWebApplication/static/css/main.5a152970.css.map",
+    "main.8743ed90.js.map": "/Gogikar-sai/TodoWebApplication/static/js/main.8743ed90.js.map",
+    "453.64512fd7.chunk.js.map": "/Gogikar-sai/TodoWebApplication/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a152970.css",
+    "static/js/main.8743ed90.js"
+  ]
+}
